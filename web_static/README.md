@@ -1,0 +1,1 @@
+This read me is for the webstatic aspect of the AirBnB project
